@@ -1,0 +1,49 @@
+name: chat
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^0.1.3
+  page_transition: ^1.1.6
+  get_it: ^4.0.4
+  flutter_keyboard_visibility: ^3.2.1
+  provider: ^4.3.1
+  firebase_core: ^0.4.5
+  firebase_auth: ^0.16.1
+  cloud_firestore: ^0.13.7
+  firebase_storage: ^3.1.6
+  image_picker: ^0.6.7+4
+  cached_network_image: ^2.2.0+1
+  dartz: ^0.9.1
+  equatable: ^1.2.3
+  bloc: ^6.0.1
+  flutter_bloc: ^6.0.1
+  data_connection_checker: ^0.3.4
+  rxdart: ^0.24.1
+  firebase_messaging: ^6.0.16
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/avatars/
+  fonts:
+    - family: Arial Rounded
+      fonts:
+        - asset: assets/fonts/ARLRDBD.TTF

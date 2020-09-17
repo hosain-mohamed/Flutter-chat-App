@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "865161079171",
+    "firebase_url": "https://chat-2b13d.firebaseio.com",
+    "project_id": "chat-2b13d",
+    "storage_bucket": "chat-2b13d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865161079171:android:3197b142eaea52fcc0eeb6",
+        "android_client_info": {
+          "package_name": "com.hosain.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865161079171-cls7of48faamv7jn3u081kmdois4pj93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFm4ESEC98RKUBfvT7qYVKhPBhY4i1y2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865161079171-cls7of48faamv7jn3u081kmdois4pj93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
