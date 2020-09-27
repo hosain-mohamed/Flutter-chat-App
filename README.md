@@ -1,16 +1,19 @@
-# chat
+# Chat Application
 
-A new Flutter project.
+A new open source Flutter project as a base for chat appilcation.
 
-## Getting Started
+## Features : 
+
+- Sign in - SignUp - logout .
+- linking with Firebase Authentication system.
+- client and backend vaildation during logging and register.
+- search by name of users.
+- real-time send and receieve messages using stream and linking with Firebaes Firestore database.
+- viewing profile page and able to edit info and upload images.
+- use pagination for showing the messages and also for friends list.
+- nice looking UI and user-friendly animation with a spalsh screen at the begining.
+- using [Bloc](https://bloclibrary.dev/) for state management.
+- using [Get-it](https://pub.dev/packages/get_it) as a Service Locator for dependency injection.
+
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
