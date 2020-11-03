@@ -3,12 +3,12 @@
 A new open source Flutter project as a base for chat appilcation.
 
 <p align="center">
-    <img src="Chat/1.jpg" alt="Image"  />
-    <img src="Chat/2.jpg" alt="Image"  /> 
-    <img src="Chat/3.jpg" alt="Image"  />  
-    <img src="Chat/4.jpg" alt="Image"  />  
-    <img src="Chat/5.jpg" alt="Image"  />  
-    <img src="Chat/6.jpg" alt="Image"  />  
+    <img src="screenshots/1.jpg" alt="Image"  />
+    <img src="screenshots/2.jpg" alt="Image"  /> 
+    <img src="screenshots/3.jpg" alt="Image"  />  
+    <img src="screenshots/4.jpg" alt="Image"  />  
+    <img src="screenshots/5.jpg" alt="Image"  />  
+    <img src="screenshots/6.jpg" alt="Image"  />  
   
   
 </p>
